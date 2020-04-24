@@ -15,3 +15,4 @@
     Cara Menggunakan NVM untuk Manajemen Versi Nodejs
     Cara Membuat Bot Telegram Simsimi dengan Layanan Webhook Hook.io
     Cara Membuat Bot Telegram dengan Layanan Hook.io
+    Latihan nodejs
