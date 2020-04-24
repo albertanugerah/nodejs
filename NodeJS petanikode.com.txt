@@ -1,0 +1,18 @@
+- petanikode.com
+    #1: Pengenalan Dasar Nodejs (untuk Pemula)
+    #2: Mengenal NPM untuk Manajemen Project Javascript
+    #3: Cara Menggunakan Modul dalam Aplikasi Nodejs
+    #4: Memahami Cara Menggunakan Modul HTTP
+    #5: Cara Menggunakan Modul File System untuk Baca Tulis File
+    #6: Menggunakan Modul URL untuk Membuat Webserver Statis
+    #7: Bagaimana Cara Mengambil Data dari Form?
+    #8: Cara Upload File di Nodejs
+    #9: Cara Menggunakan Database MySQL pada Nodejs
+    #10: Bagaimana Cara Mengirim Email di Nodejs?
+    #11: Gunakan Environment Variable untuk Mengamankan Aplikasimu
+    #12: Menggunakan Database SQLite pada Nodejs
+    Apa itu NPX? dan Apa Perbedaannya dengan NPM?
+    Cara Menggunakan NVM untuk Manajemen Versi Nodejs
+    Cara Membuat Bot Telegram Simsimi dengan Layanan Webhook Hook.io
+    Cara Membuat Bot Telegram dengan Layanan Hook.io
+    Latihan nodejs
