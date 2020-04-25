@@ -54,6 +54,7 @@ NodeJS
       Cara Menggunakan NVM untuk Manajemen Versi Nodejs
       Cara Membuat Bot Telegram Simsimi dengan Layanan Webhook Hook.io
       Cara Membuat Bot Telegram dengan Layanan Hook.io
+      Latihan
   - https://medium.com/@kiddy.xyz
       Tutorial RESTful API Node JS + Express + MySQL — Part 1
       Tutorial RESTful API Node JS + Express + MySQL — Part 2
