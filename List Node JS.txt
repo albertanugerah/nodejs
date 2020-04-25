@@ -9,31 +9,32 @@ NodeJS
     - Upload Files
     - Email
     Node.js MySQL
-     - MySQL Get Started
-     - MySQL Create Database
-     - MySQL Create Table
-     - MySQL Insert Int 
-     - MySQL Select From
-     - MySQL Where
-     - MySQL Order By
-     - MySQL Delete
-     - MySQL Drop Table
-     - MySQL Update
-     - MySQL Limit
-     - MySQL Join
+     - Get Started
+     - Create Database
+     - Create Table
+     - Insert Int 
+     - Select From
+     - Where
+     - Order By
+     - Delete
+     - Drop Table
+     - Update
+     - Limit
+     - Join
     Node.js MongoDB
-     - MongoDB Get Started
-     - MongoDB Create Database
-     - MongoDB Create Collection
-     - MongoDB Insert
-     - MongoDB Find
-     - MongoDB Query      
-     - MongoDB Sort
-     - MongoDB Delete
-     - MongoDB Drop Collection
-     - MongoDB Update
-     - MongoDB Limit
-     - MongoDB Join
+     - Get Started
+     - Create Database
+     - Create Collection
+     - Insert
+     - Find
+     - Query      
+     - Sort
+     - Delete
+     - Drop Collection
+     - Update
+     - Limit
+     - Join
+   - Latihan
      
   - petanikode.com
       #1: Pengenalan Dasar Nodejs (untuk Pemula)
