@@ -21,6 +21,7 @@ NodeJS
      - Update
      - Limit
      - Join
+     - Latihan
     Node.js MongoDB
      - Get Started
      - Create Database
@@ -34,7 +35,7 @@ NodeJS
      - Update
      - Limit
      - Join
-   - Latihan
+     - Latihan
      
   - petanikode.com
       #1: Pengenalan Dasar Nodejs (untuk Pemula)
